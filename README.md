@@ -1,7 +1,7 @@
 # React project setup and first example
 
 Linkedin [Linkedin](www.linkedin.com/in/yunuskaracaa). <br>
-Instagram [Instagram](instagram.com/yunnuskaracaa).
+Instagram [Instagram](instagram.com/yunnuskaracaa).<br>
 X [X](https://twitter.com/aldosteroon).
 
 ### `npm run start`
