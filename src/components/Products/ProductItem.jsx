@@ -12,8 +12,7 @@ const ProductItem = ({ product }) => {
       <div>
         <ProductInfo>
           <h2>{productName}</h2>
-          <span>{productPrice}₺</span>
-          fmjıdgkml
+          <span>{productPrice}£</span>
         </ProductInfo>
       </div>
     </div>

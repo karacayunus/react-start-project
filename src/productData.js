@@ -1,21 +1,21 @@
 export const productData = [
     {
-      productName: "Soda",
+      productName: "C.Ronaldo",
       imageUrl:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaXGeoatJyRmP9Aa-q4zaqgcUQim3bQHvjg&usqp=CAU",
-      productPrice: 4,
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3R5BEI1LxSZqdzE5Y_xVK91sQ4NzRCgVNw&usqp=CAU",
+      productPrice: 120000000,
     },
     {
-      productName: "Bilgisayar",
+      productName: "Leo Messi",
       imageUrl:
-        "https://images.unsplash.com/photo-1640955014216-75201056c829?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      productPrice: 5000,
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-WQsM21DOm2S7nwKTCfcgYppb_62tEa50w&usqp=CAU",
+      productPrice: 100000000,
     },
     {
-      productName: "Kebap",
+      productName: "Neymar JR.",
       imageUrl:
-        "https://images.unsplash.com/photo-1644364935906-792b2245a2c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8a2ViYXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      productPrice: 100,
+        "https://i.pinimg.com/236x/46/f0/0e/46f00e537db9af1a068f7a09b7ac220f.jpg",
+      productPrice: 80000000,
     },
   ];
 
