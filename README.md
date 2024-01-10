@@ -1,6 +1,6 @@
 # React project setup and first example
 
-Linkedin [Linkedin](www.linkedin.com/in/yunuskaracaa).
+Linkedin [Linkedin](www.linkedin.com/in/yunuskaracaa). <br>
 Instagram [Instagram](instagram.com/yunnuskaracaa).
 X [X](https://twitter.com/aldosteroon).
 
